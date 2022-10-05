@@ -2,6 +2,7 @@
 - 👀 I’m interested in Develop on different platforms and languages.
 - 🌱 I’m currently learning Kotlin, Swift, C#, Java, ...
 - 📫 How to reach me ...
+     - LinkedIn: https://www.linkedin.com/in/antonio-f-83415069/
 
 <!---
 afalabarce/afalabarce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
