@@ -2,7 +2,8 @@
 - 👀 I’m interested in Develop on different platforms and languages.
 - 🌱 I’m currently learning Kotlin, Swift, C#, Java, ...
 - 📫 How to reach me ...
-     - LinkedIn: https://www.linkedin.com/in/antonio-f-83415069/
+     - [LinkedIn](https://www.linkedin.com/in/antonio-f-83415069/)
+     - [Github Pages](https://afalabarce.github.io/)
 
 
 ## Tecnologies:
