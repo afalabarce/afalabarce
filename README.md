@@ -4,6 +4,7 @@
 - 📫 How to reach me ...
      - [LinkedIn](https://www.linkedin.com/in/antonio-f-83415069/)
      - [Github Pages](https://afalabarce.github.io/)
+     - [Twitter](https://twitter.com/afalabarce)
 
 
 ## Tecnologies:
