@@ -32,6 +32,9 @@
 [![Ms Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 </br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=afalabarce)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afalabarce&layout=compact" />
 </a>
