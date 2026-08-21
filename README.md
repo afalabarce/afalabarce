@@ -32,7 +32,7 @@
 [![Ms Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 </br>
 
-[![trophy](https://trophystats.afalabarce.dev/trophy?username=afalabarce&column=-1)](https://trophystats.afalabarce.dev/trophyy)
+[![trophy](https://trophystats.afalabarce.dev/trophy?username=afalabarce&column=-1)](https://afalabarce.dev)
 
 [![afalabarce's GitHub stats](https://github-stats-extended.vercel.app/api?username=afalabarce)](https://github.com/stats-organization/github-stats-extended)
 
