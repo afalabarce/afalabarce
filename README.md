@@ -34,11 +34,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=afalabarce)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![afalabarce's GitHub stats](https://github-stats-extended.vercel.app/api?username=afalabarce)](https://github.com/stats-organization/github-stats-extended)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afalabarce&layout=compact" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afalabarce" />
-</a>
