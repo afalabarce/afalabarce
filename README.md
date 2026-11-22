@@ -10,7 +10,7 @@
 
 ## Tecnologies:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
+[![Kotlin  Multiplatform](https://img.shields.io/badge/KMP-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
 [![JetpackCompose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=4285F4)]()
 [![KMP](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]()
